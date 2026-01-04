@@ -81,5 +81,10 @@ on training dynamics or probabilistic assumptions.
 
 ---
 
-## Repository Structure
+```bibtex
+@article{fraiman2026semantic,
+  title={Semantic Approximation Theory via Transformers: A Partial Order-Based Framework},
+  author={Fraiman, Demian},
+  year={2026}
+}
 
