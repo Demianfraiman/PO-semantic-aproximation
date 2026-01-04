@@ -7,7 +7,7 @@ This repository contains the paper:
 > A Partial Order-Based Framework**  
 > Demian Fraiman (2026)
 
-📄 **[paper_ordenes.pdf](paper.pdf)**
+📄 **[paper.pdf](paper_po.pdf)**
 
 ---
 
