@@ -39,28 +39,14 @@ well-behaved semantic interpretation that respects this ordered structure.
   conceptual space.
 
 - **Meaning as a monotone map**  
-  Semantic interpretation is formalized as a Scott-continuous function from the
-  space of texts to the space of concepts.
+  Semantic interpretation is formalized as a monotone function, as adding more text increases specifity of the concept.
 
-- **Algebraic domains and approximation**  
-  Both text and concept spaces are completed into algebraic domains, enabling
-  finite and computable approximations of meaning via compact elements.
-
-- **Lawson topology for semantic convergence**  
-  The Lawson topology is proposed as an adequate notion of convergence for
-  semantic approximation, overcoming limitations of Scott topology.
-
-- **Transformers as semantic approximators**  
-  Finite step functions are shown to be dense in the space of semantic functions,
-  and Transformer architectures are proven capable of implementing these
-  approximations exactly.
 
 ---
 
 ## Key Result (Informal)
 
-> Any semantic function that is monotone, continuous, and respects conceptual
-> structure can be approximated arbitrarily well by a Transformer architecture.
+> Any semantic function can be approximated arbitrarily well by a Transformer architecture.
 
 This result is **structural and topological**, not statistical: it does not rely
 on training dynamics or probabilistic assumptions.
