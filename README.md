@@ -5,7 +5,7 @@ This repository contains the paper:
 
 > **Semantic Approximation Theory via Transformers:  
 > A Partial Order-Based Framework**  
-> Demian Fraiman (2026)
+> Demián Fraiman (2026)
 
 📄 **[paper.pdf](paper_po.pdf)**
 
